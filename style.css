@@ -1,0 +1,29 @@
+.header{
+    font-size: 30px;
+    margin-top: 0;
+    border-radius: 10px;
+    color: white;
+}
+.start{
+    font-size: 18px;
+    color: white;
+}
+.start:hover{
+    background-color: rgb(0, 255, 170);
+}
+#status, #no_of_object{
+    font-size: 18px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    line-height: 2;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
